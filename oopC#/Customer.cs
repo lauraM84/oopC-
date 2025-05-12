@@ -9,7 +9,7 @@ namespace oopC_
 {
     internal class Customer: Person // classe cliente eredita da Person
     {
-        /*public int? Id { get; set; } // dato facoltativo
+
         public  string Name { get; set; } 
         public  string Surname { get; set; }
         public string? Gender { get; set; }
